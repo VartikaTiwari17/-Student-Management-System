@@ -47,5 +47,4 @@ Open http://localhost:5173
 | PUT | /api/students/:id | Update student |
 | DELETE | /api/students/:id | Delete student |
 
-## Screenshots
-![Dashboard](screenshots/dashboard.png)
+
